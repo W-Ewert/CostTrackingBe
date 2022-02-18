@@ -1,4 +1,4 @@
-package de.ewertw.costtrackingbe.controllers.testing;
+package de.ewertw.costtrackingbe.controller.testing;
 
 import de.ewertw.costtrackingbe.models.testing.Car;
 import de.ewertw.costtrackingbe.services.testing.CarService;
